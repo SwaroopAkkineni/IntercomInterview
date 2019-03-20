@@ -12,12 +12,17 @@ def findDistanceFromOffice(latitude, longitude):
     return dist
 
 def main():
+    dictionary = []
     with open('customers.txt') as file:
         line = file.readline()
         while line:
             j = json.loads(line)
             dist = findDistanceFromOffice(j['latitude'], j['longitude'])
-            print dist
+            if(dist < 100):
+                dictionary.append([j['user_id'], dist])
             line = file.readline()
+    dictionary.sort(key=lambda x: x[0])
+    print dictionary
+
 
 if __name__ == "__main__": main()
