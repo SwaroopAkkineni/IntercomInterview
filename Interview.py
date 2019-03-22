@@ -11,8 +11,7 @@ class Interview:
         personRadiansLongitude = radians(float(longitude))
         radiusOfEarth = 6371
 
-        dist = radiusOfEarth * acos(sin(dublinRadiansLatitude)*sin(personRadiansLatitude) + cos(dublinRadiansLatitude)*cos(personRadiansLatitude)*cos(dublinRadiansLongitude - personRadiansLongitude))
-        return dist
+        return radiusOfEarth * acos(sin(dublinRadiansLatitude)*sin(personRadiansLatitude) + cos(dublinRadiansLatitude)*cos(personRadiansLatitude)*cos(dublinRadiansLongitude - personRadiansLongitude))
 
     def readFile(self, fileName):
         dictionary = []
@@ -22,7 +21,7 @@ class Interview:
                 j = json.loads(line)
                 dist = self.findDistanceFromOffice(j['latitude'], j['longitude'])
                 if(dist < 100):
-                    dictionary.append([j['user_id'], dist])
+                    dictionary.append([j['user_id'], j['name']])
                 line = file.readline()
         dictionary.sort(key=lambda x: x[0])
         return dictionary
@@ -30,9 +29,9 @@ class Interview:
     def process(self, file):
         if os.path.exists(file):
             dictionary = self.readFile(file)
-            print 'user_id', ' ', 'distance'
-            for user_id, distance in dictionary:
-                print user_id, '       ', distance
+            print 'user_id\t\tname'
+            for user_id, name in dictionary:
+                print user_id, '\t\t', name
         else:
             print 'Bad File name'
 
