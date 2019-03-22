@@ -18,10 +18,13 @@ class Interview:
         with open(fileName) as file:
             line = file.readline()
             while line:
-                j = json.loads(line)
-                dist = self.findDistanceFromOffice(j['latitude'], j['longitude'])
-                if(dist < 100):
-                    dictionary.append([j['user_id'], j['name']])
+                try:
+                    j = json.loads(line)
+                    dist = self.findDistanceFromOffice(j['latitude'], j['longitude'])
+                    if(dist < 100):
+                        dictionary.append([j['user_id'], j['name']])
+                except ValueError:
+                    print 'Bad Json'
                 line = file.readline()
         dictionary.sort(key=lambda x: x[0])
         return dictionary
