@@ -1,39 +1,11 @@
-What's your proudest achievement? It can be a personal project or something you've
+the prompt: What's your proudest achievement? It can be a personal project or something you've
 worked on professionally. Just a short paragraph is fine, but I'd love to know why
 you're proud of it, what impact it had (If any) and any insights you took from it.
 
------------------ Marathon -----------------
+One of my proudest achievements to date would have to be the success I had at planning a hackathon during my summer internship at BNY Mellon. My interest in hackathons initially began during the academic year previous to my internship. The unique challenges and intense excitement-driven atmosphere of hackathons made for a great learning environment that truly allowed one think outside of the box. I became quite addicted to these competitions, to the extent that I attended 10 such events over my junior year alone.
 
-The proudest moment of my life was when I crossed the finish line at the 2017 Toronto marathon. It was the first marathon I
-had ever done in my life and it was the culmination of a lot of hard word and pain.
+My initial idea, during my time at BNY Mellon, was to create an event that would bring together the technical and business interns in an effort to solve a common problem. I had thought that this could potentially create a camaraderie between the other interns, that would also translate to further inter-departmental successes and projects. As I pitched this idea to my managers and upper-level administrators, I was met with great enthusiasm. However, with regards to actually moving forward with planning, I was confronted with many setbacks due to various bureaucratic difficulties. Along with the various road blocks I faced, many of the managers and senior engineers doubted my chances with regards to convincing the CTO of BNY Mellon to come aboard and participate as a judge.
 
-Like many people, I had always dreamed of running a marathon. Also as most people, I had hated running and could barely run for 5 minutes,
-let alone 26.2 miles. For most of my life, the idea of running on was a fantasy, something I thought would be nice but never actually tried
-to accomplish. It all changed when I was 21, and decided to go for a mile run. There wasn't a reason why I wanted to run that day, I just thought it
-was a nice day and decided to run. It was an excruciating 10 minutes, after which I swore off ever running again. But then the next day came and I decided to
-run again and to this time run a little further. I kept repeating everyday, running further and further until I was running 6 miles on daily basis. I had become
-addicted to running and the feeling of bliss that came after going for a run. I repeated the daily routine for an entire year up until my 2 friends mentioned going
-on a post graduation vacation to Toronto to run the marathon.
+In spite of all the logistical problems, I was not deterred and kept moving forward as I truly believed that this could be a great event. This proved to be true, as even the CTO enthusiastically gave full approval to proceed. By sheer luck, I had passed him in the lobby of BNY Mellon and had pitched my idea on the spot. With this support, I was able plan the rest of the hackathon without any further issues. Challenges were put forward by various executives across the company and with a grand prize of tickets to a Pittsburgh Pirates game, I had over 60% of the intern class participate.
 
-
------------------ First Hackathon Win -----------------
-The proudest moment of my life was winning my first hackathon my junior year of college. The purpose of the hackathon was to spend 24 hours making a project
-related to RFID technology. I went in not knowing what to expect, and not even being a decent coder, and randomly just sat at a table with some of my classmates.
-We talked briefly about potential ideas, upon which i pitched an idea I thought of while I volunteered as an EMT in highschool. The idea a smartwatch app that would call 911
-when it detected the wearer had fallen. The app would store patient information, which a person could scan by simply tapping their phone to the watch. The reasoning come me
-spending countless minutes searching for patients information, such as name, dob, prior conditions, instead of treating them on calls.
-
-Over the next 24 hours, my group mates and I spent the entire time hacking away, learning as much as can about app and smartwatch development, scouring the little documentation
-at the time on how make this idea come to fruition. There were many ups and down but by the next night, we had finally finished the app. In our sleep stupor we demoed
-our app, and went back to our table nervously waiting to see the results of the competition. When our group name was announced as the winner, we all bolted into the air
-and rushed to the front to collect our $2000 prize.
-
------------------ BNY Hackathon --------------------
-One of the proudest achievemets that I have accomplished was successfully planning a hackathon during my INternship at BNY Mellon. During the year prior to my internship,
-I had become addicted to going to hackathons, having gone to 10 over that prior school year, and so I thought it would be a good idea to plan a hackathon at BNY Mellon.
-My plan was to create an event that would allow the technical interns to work with the business interns to solve a common goal. I went and pitched the idea to my manager,
-who loved the idea and pitched it to her manager, who also gave me the approval to move forward. Unfortunetely, this is where the roadblocks came, where I was stuck
-in a a beaurcratic limbo, not able to move forward with the idea. On top of this, many managers and senior engineers doubted my ability to get the CTO of BNY Mellon to come
-and participate as a judge. But this negativity didn't deter me, and I was able pass the CTO randomly on the lobby and pitched the idea on the spot. He loved it and gave me
-the full approval to move forward. I was able to plan the reset of the event without any hickups and had over 60^ of the intern class participate, had challenges submited
-by executives across the company, and even a grand prize of tickets to a pirates games.
+Planning this event taught me to be relentless, and not be detracted by negativity or various setbacks; instead, I had learned that one must keep working at problems to find solutions as well as the benefits of approaching an issue from multiple angles. These are ideas that I continue to make use of with regards to my work.
